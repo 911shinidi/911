@@ -1,0 +1,15 @@
+
+D:\源码\911>git branch kzm创建一个名字是kzm的分支
+
+D:\源码\911>git branch
+  kzm
+* main
+
+D:\源码\911>git checkout kzm把main里的东西放在分支kzm里
+Switched to branch 'kzm'
+
+D:\源码\911>git branch
+* kzm
+  main
+
+D:\源码\911>git branch --drl(分支名)删除分支
